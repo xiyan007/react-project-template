@@ -1,7 +1,7 @@
 {
   "name": "react-project-template",
   "version": "1.0.0",
-  "description": "react v18 + react-router v6 + redux v4",
+  "description": "react v18 + react-router-dom v6 + rematchjs",
   "main": "index.js",
   "scripts": {
     "start": "node ./build/server.js",
